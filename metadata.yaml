@@ -1,0 +1,41 @@
+_repo: Mexican-Copper-Tools-the-Use-of-Copper-by-the-Mexicans-Before-the-Conquest-And-The-Katunes-of__57961
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Jr., Horatio Alger
+    - Starr, Julian
+    - Preston, Charles F.
+    - Putnam, Arthur Lee
+    - Alger, Horatio
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+  - agent_name: Salisbury, Stephen
+    birthdate: 1835
+    deathdate: 1905
+    gutenberg_agent_id: '34109'
+    url: http://www.gutenberg.org/2009/agents/34109
+creator:
+  author:
+    agent_name: Valentini, Philipp J. J.
+    gutenberg_agent_id: '49710'
+    url: http://www.gutenberg.org/2009/agents/49710
+description: ''
+gutenberg_issued: '2018-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mexican Copper Tools: the Use of Copper by the Mexicans Before the Conquest;
+  And The Katunes of Maya History, a Chapter in the Early History of Central America,
+  With Special Reference to the Pio Perez Manuscript.'
+url: http://www.gutenberg.org/ebooks/57961
